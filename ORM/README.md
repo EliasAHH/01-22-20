@@ -22,4 +22,11 @@
     * DELETE
       - `DELETE FROM`
 * Perform CRUD actions on a single table
+
+* What is ORM? 
+  * 
+
+* Why do we need it? 
+ * 
+
 * Preventing [SQL injections](https://www.w3schools.com/sql/sql_injection.asp)
